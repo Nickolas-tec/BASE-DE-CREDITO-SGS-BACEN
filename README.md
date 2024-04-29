@@ -1,2 +1,3 @@
- ETL em R das séries temporais de crédito do SGS Bacen
- O tratamento de dados destas séries foi realizado para a estruturação de bases de dados e suportes gráficos da equipe de macro econômia da GEASE da Tesouraria Global do Banco do Brasil.
+ETL em R das séries temporais de crédito do SGS Bacen.
+O tratamento de dados destas séries foi realizado para a estruturação de bases de dados e suportes gráficos pela equipe de macroeconomia da GEASE da Tesouraria Global do Banco do Brasil.
+O projeto consiste em extrair as séries temporais de crédito do sistema de gerenciamento de séries temporais do Bacen e realizar o tratamento desses dados, selecionando as variáveis importantes para o contexto da equipe de macroeconomia, além de cálculos de variação mensal, trimestral e anual. No final, os dados tratados são carregados em uma base no Excel (.xlsx), que posteriormente gerou um suporte gráfico que auxiliou em apresentações da equipe sobre o tema crédito.
